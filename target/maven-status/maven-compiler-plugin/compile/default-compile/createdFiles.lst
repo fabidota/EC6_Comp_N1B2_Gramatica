@@ -1,0 +1,4 @@
+br\edu\cefsa\model\Gramatica.class
+br\edu\cefsa\FileRW\FileReader.class
+br\edu\cefsa\model\Grafico.class
+br\edu\cefsa\model\Principal.class
