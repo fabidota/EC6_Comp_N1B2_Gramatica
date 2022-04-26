@@ -1,0 +1,8 @@
+Σ : R, L, +, -, r, l
+n : 4
+ω : R+L-L+LL+RRRRR++++R--LL-
+δ : 90
+p1 : R → R+RRrRL
+p2 : L → -LLLllRR
+p3 : + → +R-LLl
+p4 : - → --L-LLLL
